@@ -1,0 +1,22 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns": ["_Out"],
+            "follow_symlinks": true
+        },
+    ],
+    "settings":
+    {
+        "tab_size": 4
+    },
+    "build_systems":
+    [
+        {
+            "name": "Premake",
+            "shell_cmd": "premake5 vs2022",
+            "$working_dir": "$project_path"
+        }
+    ]
+}

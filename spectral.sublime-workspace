@@ -1,0 +1,1630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Spectral_",
+				"Spectral_Win32_CLI"
+			],
+			[
+				"do",
+				"do_thing"
+			],
+			[
+				"RenTech",
+				"RenTech_Windows"
+			],
+			[
+				"vertex",
+				"vertex_shader"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"upad",
+				"upload_spec"
+			],
+			[
+				"upload",
+				"upload_spec"
+			],
+			[
+				"Gpu",
+				"Gpu_Buffer"
+			],
+			[
+				"GL_",
+				"GL_ARRAY_BUFFER"
+			],
+			[
+				"create",
+				"create_spec"
+			],
+			[
+				"gpu",
+				"Gpu_Buffer_Spec"
+			],
+			[
+				"Gl",
+				"Gl_Id"
+			],
+			[
+				"attri",
+				"attribute_buffers"
+			],
+			[
+				"po",
+				"position_buffer"
+			],
+			[
+				"positi",
+				"position_attrib"
+			],
+			[
+				"ex",
+				"exapnded_sources"
+			],
+			[
+				"quad",
+				"quad_mesh"
+			],
+			[
+				"GL",
+				"GL_Id"
+			],
+			[
+				"ver",
+				"vertex_shader_code"
+			],
+			[
+				"vertex_",
+				"vertex_shader"
+			],
+			[
+				"Shader",
+				"Shader_Spec"
+			],
+			[
+				"pro",
+				"program_spec"
+			],
+			[
+				"out_",
+				"out_shader"
+			],
+			[
+				"vert",
+				"vertex_shader_code"
+			],
+			[
+				"bui",
+				"BuildStraight"
+			],
+			[
+				"log",
+				"log_length"
+			],
+			[
+				"out",
+				"out_failure_log"
+			],
+			[
+				"Sh",
+				"Shader_Spec"
+			],
+			[
+				"glCreate",
+				"glCreateProgram"
+			],
+			[
+				"vertex_shader",
+				"vertex_shader_code"
+			],
+			[
+				"err",
+				"error_callback"
+			],
+			[
+				"appli",
+				"application_name"
+			],
+			[
+				"Appli",
+				"Application_Context"
+			],
+			[
+				"target_link",
+				"target_link_libraries"
+			],
+			[
+				"target",
+				"target_link_directories"
+			],
+			[
+				"add_",
+				"add_subdirectory"
+			],
+			[
+				"p",
+				"progress"
+			],
+			[
+				"time",
+				"get_time"
+			],
+			[
+				"M",
+				"MyConcreteClass"
+			],
+			[
+				"My",
+				"MyAbstractClass"
+			],
+			[
+				"usa",
+				"usage_flags"
+			],
+			[
+				"VkCo",
+				"VkCommandPool"
+			],
+			[
+				"graph",
+				"graphics_queue"
+			],
+			[
+				"tran",
+				"transfer_buffer"
+			],
+			[
+				"tra",
+				"transfer_data"
+			],
+			[
+				"dst",
+				"dst_buffer"
+			],
+			[
+				"trans",
+				"tranfer_spec"
+			],
+			[
+				"create_",
+				"create_gpu_buffer"
+			],
+			[
+				"VkDev",
+				"VkDeviceSize"
+			],
+			[
+				"Gpu_",
+				"Gpu_Buffer"
+			],
+			[
+				"is",
+				"is_initialized"
+			],
+			[
+				"get_",
+				"get_platform_context"
+			],
+			[
+				"buffer",
+				"buffer_handle"
+			],
+			[
+				"is_initi",
+				"is_initialized"
+			],
+			[
+				"map",
+				"map_buffer"
+			],
+			[
+				"cretet",
+				"create_transfer_buffer"
+			],
+			[
+				"VkDevice",
+				"VkDeviceSize"
+			],
+			[
+				"VkM",
+				"VkDeviceMemory"
+			],
+			[
+				"re",
+				"remaining_time_ms"
+			],
+			[
+				"Distance",
+				"DistanceY"
+			],
+			[
+				"Copy",
+				"CopyRect_Simd"
+			],
+			[
+				"pi",
+				"print_pixel"
+			],
+			[
+				"print",
+				"print_color"
+			],
+			[
+				"prin",
+				"print_pixel"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"Colo",
+				"Color_Mask"
+			],
+			[
+				"Print",
+				"print_color"
+			],
+			[
+				"Co",
+				"Color_Mask"
+			],
+			[
+				"print_",
+				"print_color"
+			],
+			[
+				"Event_",
+				"Event_Type"
+			],
+			[
+				"exe",
+				"executable_dir"
+			],
+			[
+				"as_p",
+				"as_path"
+			],
+			[
+				"asset",
+				"asset_dir"
+			],
+			[
+				"ass",
+				"asset_dir"
+			],
+			[
+				"imguiim",
+				"imgui_impl_vulkan"
+			],
+			[
+				"imgui",
+				"imgui_impl_vulkan"
+			],
+			[
+				"get",
+				"get_performance_counter"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"Timer",
+				"Timers_Manager"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"shader_",
+				"shader_input_dir"
+			],
+			[
+				"target_",
+				"target_sources"
+			],
+			[
+				"Hit",
+				"Hit_Result"
+			],
+			[
+				"write",
+				"write_data_to_image"
+			],
+			[
+				"ray",
+				"ray_math"
+			],
+			[
+				"bmp",
+				"bmp_exporter_add"
+			],
+			[
+				"pr",
+				"println\tprintln!(…)"
+			],
+			[
+				"pl",
+				"println\tprintln!(…)"
+			],
+			[
+				"neigh",
+				"neighbour_way_index"
+			],
+			[
+				"sea",
+				"search_start"
+			],
+			[
+				"sear",
+				"search_index"
+			],
+			[
+				"Exn",
+				"Entry_Index"
+			],
+			[
+				"room",
+				"room_index"
+			],
+			[
+				"a",
+				"attack_index"
+			],
+			[
+				"atta",
+				"attack_index"
+			],
+			[
+				"heal",
+				"health_per_level"
+			],
+			[
+				"h",
+				"health_base"
+			],
+			[
+				"Ene",
+				"Enemy_Template"
+			],
+			[
+				"Enme",
+				"Enemy_Template"
+			],
+			[
+				"error",
+				"error_helper_value"
+			],
+			[
+				"V",
+				"V3"
+			],
+			[
+				"types",
+				"type_string"
+			],
+			[
+				"cha",
+				"character_after_term"
+			],
+			[
+				"start",
+				"starts_with"
+			],
+			[
+				"in",
+				"in_block_comment"
+			],
+			[
+				"commen",
+				"comment_size"
+			],
+			[
+				"string",
+				"string_view"
+			],
+			[
+				"lin",
+				"line_end"
+			],
+			[
+				"strin",
+				"string_view"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"default",
+				"default_arg_length"
+			],
+			[
+				"comm",
+				"comment_length"
+			],
+			[
+				"no",
+				"note"
+			],
+			[
+				"current",
+				"current_length"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"thr",
+				"thread_infos"
+			],
+			[
+				"th",
+				"thread_infos"
+			],
+			[
+				"jo",
+				"job_counter"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"job",
+				"job_counter"
+			],
+			[
+				"ela",
+				"elapsed_counts"
+			],
+			[
+				"el",
+				"elapsed_us"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"stdi",
+				"stdio.h"
+			],
+			[
+				"ma",
+				"main"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spectral.sublime-project",
+			"settings":
+			{
+				"buffer_size": 385,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\nex"
+					},
+					"BAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEcAAAAAAAAARwAAAAAAAAABAAAAeEYAAAAAAAAARgAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEYAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "exlude"
+					},
+					"BgAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEcAAAAAAAAARwAAAAAAAAAGAAAAZXhsdWRl",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AgAAADkAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABsAAAAAAAAAA8AAAAKICAgICAgICAgICAgIiI",
+					"AQAAAAAAAAABAAAASAAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAGMAAAAAAAAAYwAAAAAAAAAGAAAAYmFja3Vw",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "_Out"
+					},
+					"BAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEIBAAAAAAAAQwEAAAAAAAAAAAAAQwEAAAAAAABPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAE8BAAAAAAAAUQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"paste",
+					null,
+					"AQAAAFABAAAAAAAAWgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAEAAAAAAABQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFEBAAAAAAAAUQEAAAAAAAAJAAAAZmlsZV9wYXRo",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "working_die"
+					},
+					"CwAAAFEBAAAAAAAAUgEAAAAAAAAAAAAAUgEAAAAAAABTAQAAAAAAAAAAAABTAQAAAAAAAFQBAAAAAAAAAAAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABZAQAAAAAAAAAAAABZAQAAAAAAAFoBAAAAAAAAAAAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsBAAAAAAAAWwEAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAEIBAAAAAAAAQwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgEAAAAAAABCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAF4BAAAAAAAAXwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAMHhA"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF8BAAAAAAAAYAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGABAAAAAAAAYgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"paste",
+					null,
+					"AQAAAGEBAAAAAAAAbgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "premake5.lua",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAIgAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJsAAAAAAAAAmwAAAAAAAAAKAAAATXlQcm9qZWN0Mg",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"right_delete",
+					null,
+					"AQAAAIkAAAAAAAAAiQAAAAAAAAADAAAAICAg",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAIkAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQAAAAAAAACJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"right_delete",
+					null,
+					"AQAAAIwAAAAAAAAAjAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "Spectral_"
+					},
+					"CQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert_completion",
+					{
+						"completion": "Spectral_Win32_CLI",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "Spectral_Win32_CLI"
+					},
+					"AgAAAJoAAAAAAAAAmgAAAAAAAAAJAAAAU3BlY3RyYWxfmgAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUAAAAAAAAA9QAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Spectral/Spectral_Win32_CLI/spectral_win32_cli_premake5.lua",
+			"settings":
+			{
+				"buffer_size": 420,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKoAAAAAAAAAqwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKoAAAAAAAAAqwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					6,
+					1,
+					"reindent",
+					null,
+					"AQAAAKsAAAAAAAAArgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "links"
+					},
+					"BQAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALEAAAAAAAAAAAAAALEAAAAAAAAAsgAAAAAAAAAAAAAAsgAAAAAAAACzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgAAAAAAAACuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAALQAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAALUAAAAAAAAAtwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "Spectral"
+					},
+					"CAAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALkAAAAAAAAAAAAAALkAAAAAAAAAugAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvQAAAAAAAAAAAAAAvQAAAAAAAAC+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL0AAAAAAAAAvQAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "Spectral_Core",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "Spectral_Core"
+					},
+					"AgAAALYAAAAAAAAAtgAAAAAAAAAHAAAAU3BlY3RyYbYAAAAAAAAAwwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQAAAAAAAAC9AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 5,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "/_Out"
+					},
+					"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "Spectral/Spectral_Core/spectral_core_premake5.lua",
+			"settings":
+			{
+				"buffer_size": 418,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					4,
+					"left_delete",
+					null,
+					"BAAAABkAAAAAAAAAGQAAAAAAAAABAAAATBgAAAAAAAAAGAAAAAAAAAABAAAATBcAAAAAAAAAFwAAAAAAAAABAAAARBYAAAAAAAAAFgAAAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Premake",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Premake",
+					""
+				],
+				[
+					"Packages/User/basic_cmake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build_bat.sublime-build",
+					""
+				]
+			],
+			[
+				"Premake",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"split",
+				"File: Split View"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 393.0,
+		"history":
+		[
+			"cargo build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Projects/Spectral",
+		"/E/Projects/Spectral/Spectral",
+		"/E/Projects/Spectral/Spectral/Spectral_Win32_CLI"
+	],
+	"file_history":
+	[
+		"/E/Projects/Spectral/premake5.lua",
+		"/E/Projects/Spectral/spectral.sublime-project",
+		"/E/Projects/Spectral/Spectral/Spectral_Win32_CLI/spectral_win32_cli_premake5.lua",
+		"/E/Projects/Spectral/Spectral/Spectral_Core/spectral_core_premake5.lua",
+		"/E/Projects/Spectral/Spectral/Spectral_Core/Code/main.cpp",
+		"/E/Projects/Spectral/Spectral/Spectral_Win32_CLI/Code/main.cpp",
+		"/E/Projects/Spectral/Spectral/Spectral_Core/Code/include/spectral/spectral.hpp",
+		"/E/Projects/Spectral/Spectral/Spectral_Core/Code/include/spectral/scene.hpp",
+		"/E/Projects/Spectral/Spectral/Spectral_Core/Code/include/spectral/renderer.hpp",
+		"/E/Projects/Spectral/Spectral/Spectral_Win32_CLI/main.cpp",
+		"/E/Projects/Spectral/Code/Spectral_Core/spectral_core_premake5.lua",
+		"/E/Projects/Spectral/Code/Spectral_Win32_CLI/spectral_win32_cli_premake5.lua",
+		"/E/Projects/Spectral/Code/Spectral_Win32_CLI/main.cpp",
+		"/E/Projects/Spectral/README.md",
+		"/E/Projects/Spectral/Code/Spectral_Win32/win32_main.cpp",
+		"/E/Projects/Spectral/Code/Spectral_Core/main.cpp",
+		"/C/Users/Freemedude/conf/games/sdt/Loader5.45/Settings/extractloadercharsV5settings.txt",
+		"/C/Users/Freemedude/conf/games/sdt/Loader5.45/Mods/$INIT$/Mods.txt",
+		"/E/Projects/_mini_projects/small_renderer/premake5.lua",
+		"/E/Projects/_mini_projects/small_renderer/.gitginore",
+		"/E/Projects/_mini_projects/small_renderer/Vendor/stb/include/stb_image.h",
+		"/E/Projects/_mini_projects/Rata/Raytracer/premake5.lua",
+		"/E/Projects/_mini_projects/Rata/Raytracer/Code/Core/application.hpp",
+		"/E/Projects/_mini_projects/Rata/Raytracer/Code/Win32_Application/win32_main.cpp",
+		"/E/Projects/_mini_projects/Rata/README.md",
+		"/E/Projects/_mini_projects/Rata/Raytracer/build.bat",
+		"/E/Projects/_public/Bedrock/premake5.lua",
+		"/E/Projects/hng/engine/player/controllers/_private/flashcontroller.cpp",
+		"/E/Projects/hng/engine/player/gui/_private/flashloader.cpp",
+		"/E/Projects/hng/engine/player/gui/_private/flashloader.h",
+		"/E/Projects/hng/engine/player/gui/_private/player.gui.main.cpp",
+		"/E/Projects/_mini_projects/project_fullstack/README.md",
+		"/C/Users/Freemedude/conf/sdt/Loader5.45/Settings/BreastExpPlus_v3_7settings.txt",
+		"/C/Users/Freemedude/conf/sdt/Loader5.45/Mods/$INIT$/Mods.txt",
+		"/C/Users/Freemedude/.conf/sdt/Guide/Saving Guide.txt",
+		"/C/Users/Freemedude/.conf/SDT/README.txt",
+		"/C/Users/Freemedude/.conf/SDT/save.txt",
+		"/C/Users/Freemedude/.conf/SDT/Settings/BreastExpPlus_v3_7settings.txt",
+		"/C/Users/Freemedude/.conf/SDT/Settings.txt",
+		"/E/Projects/_mini_projects/LoL_Item_comparer/data/items.json",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/Ønskeliste.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/Pickled onion testing process.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/app.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/applications/IOI/Core Engine Programmer/Cover_Letter.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/applications/Tactile/QA_automation/CoverLetter.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/applications/IOI/Tools/CoverLetter.txt",
+		"/E/SteamLibrary/steamapps/common/Star Wars Empire at War/corruption/_GraphicsInit.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/unclear.txt",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/Kvittering.txt",
+		"/E/Projects/toy_language/main.cpp",
+		"/E/Projects/_public/Bedrock/.gitmodules",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/vulkan_core.hpp",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/vulkan_resource.hpp",
+		"/E/Projects/hng/engine/player/render/_private/rendervulkan/rendercommandlistvulkan.cpp",
+		"/E/Projects/hng/engine/player/render/_private/rendervulkan/renderdevicevulkan.cpp",
+		"/E/Projects/hng/engine/player/render/_private/rendervulkan/renderutilsvulkan.h",
+		"/E/Projects/hng/engine/common/system/_private/win32/cpu.cpp",
+		"/E/Projects/hng/engine/common/system/cpu.h",
+		"/E/Projects/hng/engine/player/render/_private/rendervulkan/renderresourcesvulkan.h",
+		"/E/Projects/hng/engine/player/render/_private/rendervulkan/renderdevicevulkan.h",
+		"/E/Projects/hng/engine/player/render/_private/renderd3d/renderdeviced3d.h",
+		"/E/Projects/hng/engine/player/render/_private/rendersurface.h",
+		"/E/Projects/hng/engine/player/render/_private/rendergui.h",
+		"/E/Projects/hng/engine/player/render/irendervendorapi.h",
+		"/E/Projects/hng/engine/common/system/_private/memory.cpp",
+		"/C/Users/Freemedude/Downloads/29_mipmapping.cpp",
+		"/C/Users/Freemedude/Downloads/30_multisampling.cpp",
+		"/E/Projects/_public/Bedrock/Out/log.txt",
+		"/C/Users/Freemedude/Downloads/27_depth_buffering.cpp",
+		"/E/Projects/_public/Bedrock/readme.md",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/Tactile/QA_automation/CoverLetter.txt",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/common.hpp",
+		"/C/VulkanSDK/1.3.275.0/Bin/featurex.txt",
+		"/E/Projects/hng_edited/engine/launch/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/system/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/scene/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/render/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/physics/CMakeLists.txt",
+		"/E/Projects/hng_edited/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/main/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/controllers/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/component/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/applicationcore/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/application/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/servercomm/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/resourcev2/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/player/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/resources/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/editor/CMakeLists.txt",
+		"/E/Projects/hng_edited/Changelist.txt",
+		"/E/Projects/hng_edited/engine/common/util/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/net/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/misc/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/stream/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/system/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/math/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/reflection/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/containers/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/common/ivmtrace/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/crashlogger/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/extract_symbols/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/simplepreprocessor/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/relocpreprocessor/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/scramblepefile/CMakeLists.txt",
+		"/E/Projects/hng_edited/engine/tools/simplepreprocessor/spp.cpp",
+		"/E/Projects/hng_edited/engine/tools/rspp/CMakeLists.txt",
+		"/E/Projects/hng/engine/resources/CMakeLists.txt",
+		"/E/Projects/hng/engine/resources/render/primimagearray.h",
+		"/E/Projects/hng/engine/packv2/fbxToJsonConverter/CMakeLists.txt",
+		"/E/Projects/hng/engine/packv2/CMakeLists.txt",
+		"/E/Projects/hng/engine/CMakeLists.txt",
+		"/E/Projects/hng/engine/tools/rspp/CMakeLists.txt",
+		"/E/Projects/hng/CMakeLists.txt",
+		"/E/Projects/hng/engine/player/CMakeLists.txt",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/graphics_context.cpp",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/graphics_context.hpp",
+		"/C/Users/Freemedude/Downloads/09_shader_base.vert",
+		"/E/Projects/_public/Bedrock/Assets/Shaders/shader.vert",
+		"/E/Projects/_public/Bedrock/Assets/Shaders/shader.frag",
+		"/C/Users/Freemedude/Downloads/15_hello_triangle.cpp",
+		"/E/Projects/_public/Bedrock/Code/Bedrock/logging.hpp",
+		"/C/Users/Freemedude/OneDrive/Skrivebord/job_hunt/Ghostship/Proactive Tools And Backend Developer/CoverLetter.txt",
+		"/E/Projects/_mini_projects/fullstack/Todoman/README.md",
+		"/E/Projects/hng/engine/player/controllers/_private/statistics.cpp",
+		"/E/Projects/hng/engine/player/controllers/_private/statistics.h",
+		"/E/Projects/hng/engine/player/types.h"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 190.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spectral.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "premake5.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Spectral/Spectral_Win32_CLI/spectral_win32_cli_premake5.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Spectral/Spectral_Core/spectral_core_premake5.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 440.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "spectral.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"bm.bat"
+			],
+			[
+				"build",
+				"build.bat"
+			],
+			[
+				"simple",
+				"samples\\1-2_simple\\1-2_simple.cpp"
+			],
+			[
+				"show",
+				"code\\showed.hpp"
+			],
+			[
+				"run.",
+				"run.bat"
+			],
+			[
+				"build.",
+				"build.bat"
+			],
+			[
+				"sho",
+				"code\\showed.hpp"
+			],
+			[
+				"showed",
+				"code\\showed.hpp"
+			],
+			[
+				"1-s",
+				"samples\\1-2_simple\\1-2_simple.cpp"
+			],
+			[
+				"1-2",
+				"samples\\1-2_simple\\1-2_simple.cpp"
+			],
+			[
+				"1_simple",
+				"samples\\1_simple_cmake\\1_simple_cmake.cpp"
+			],
+			[
+				"b",
+				"code\\bedrock.hpp"
+			],
+			[
+				"vulkan",
+				"code\\vulkan_context.hpp"
+			],
+			[
+				"bedrock",
+				"code\\bedrock.hpp"
+			],
+			[
+				"be",
+				"code\\bedrock.cpp"
+			],
+			[
+				"bedr",
+				"code\\bedrock.cpp"
+			],
+			[
+				"appli",
+				"code\\application.hpp"
+			],
+			[
+				"perfo",
+				"code\\performance.hpp"
+			],
+			[
+				"cmd_",
+				"examples\\cmd_client\\cmd_client.cpp"
+			],
+			[
+				"out",
+				"out\\examples\\cmd_client\\include\\console_commands_out.hpp"
+			],
+			[
+				"functionfinder.hp",
+				"code\\include\\function_finder\\function_finder.hpp"
+			],
+			[
+				"help",
+				"out\\examples\\help_example\\help_example.cpp"
+			],
+			[
+				"help_example.cpp",
+				"out\\examples\\help_example\\help_example.cpp"
+			],
+			[
+				"dummy",
+				"dummy.cpp"
+			],
+			[
+				"client.c",
+				"examples\\simple_client\\client.cpp"
+			],
+			[
+				".hpp",
+				"code\\include\\function_finder\\function_finder.hpp"
+			],
+			[
+				"console",
+				"out\\examples\\cmd_client\\include\\console_commands_out.hpp"
+			],
+			[
+				"cmd_cli",
+				"examples\\cmd_client\\cmd_client.cpp"
+			],
+			[
+				"ff.cpp",
+				"code\\function_finder.cpp"
+			],
+			[
+				"func",
+				"code\\function_finder.cpp"
+			],
+			[
+				"render",
+				"src\\render.cpp"
+			],
+			[
+				"tetris.",
+				"Demos\\Tetris\\Tetris.cpp"
+			],
+			[
+				"tetris",
+				"Demos\\Tetris\\Tetris.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Projects\\bedrock\\bedrock.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 59.0,
+		"last_filter": "readentire",
+		"selected_items":
+		[
+			[
+				"readentire",
+				"read_entire_ascii_file"
+			],
+			[
+				"rea",
+				"read_entire_ascii_file"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 403.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
