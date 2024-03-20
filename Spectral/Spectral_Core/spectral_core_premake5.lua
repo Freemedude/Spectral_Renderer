@@ -3,13 +3,14 @@ project "Spectral_Core"
    language "C++"
    targetdir "%{wks.location}/../Bin"
    architecture "x64"
-   files { "Code/**.cpp", "Code/**.hpp" }
+   files { "Code/**.cpp", "Code/**.hpp", "../Vendor/glm/include/**" }
 
    includedirs {
-      "Code/include"
+      "Code/include",
+      "../Vendor/glm/include"
    }
 
-   defines { "WIN_EXPORT" }
+   defines { "SPECTRAL_SHARED_LIB_EXPORT" }
    filter "configurations:Debug"
       defines { "DEBUG" }
       symbols "On"

@@ -8,8 +8,12 @@ project "Spectral_Win32_CLI"
    links {"Spectral_Core"}
 
    includedirs {
-      "../Spectral_Core/Code/include"
+      "../Spectral_Core/Code/include",
+      "../Vendor/glm/include"
    }
+
+   defines { "SPECTRAL_SHARED_LIB_IMPORT" }
+
    filter "configurations:Debug"
       defines { "DEBUG" }
       symbols "On"

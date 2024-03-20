@@ -1,16 +1,18 @@
-#include <memory>
+#pragma once
 
+#include "spectral/exported.hpp"
 
 namespace Spectral
 {
 
-class IScene_Source
+class EXPORTED IScene
 {
-
 };
 
-class Hardcoded_Scene : public IScene_Source
+class EXPORTED Hardcoded_Scene : public IScene
 {
+public:
+	Hardcoded_Scene() = default;
 
 };
 

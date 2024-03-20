@@ -16,7 +16,7 @@
         {
             "name": "Premake",
             "shell_cmd": "premake5 vs2022",
-            "$working_dir": "$project_path"
+            "working_dir": "$project_path"
         }
     ]
 }

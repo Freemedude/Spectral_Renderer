@@ -1,0 +1,88 @@
+#pragma once
+
+#include <cstdint>
+namespace Spectral
+{
+
+	using U8 = std::uint8_t;
+	using U16 = std::uint16_t;
+	using U32 = std::uint32_t;
+	using U64 = std::uint64_t;
+
+	using S8 = std::int8_t;
+	using S16 = std::int16_t;
+	using S32 = std::int32_t;
+	using S64 = std::int64_t;
+
+	using F32 = float;
+	using F64 = double;
+
+	using Char = char;
+	using UChar = unsigned char;
+	using Byte = S8;
+	using UByte = U8;
+	using Sz = size_t;
+
+#define DECLARE_VECTOR_2_TYPE(TYPE) struct V ## 2 ## TYPE\
+{\
+	TYPE x, y;\
+}
+
+
+#define DECLARE_VECTOR_3_TYPE(TYPE) struct V ## 3 ## TYPE\
+{\
+	TYPE x, y, z;\
+}
+
+
+#define DECLARE_VECTOR_4_TYPE(TYPE) struct V ## 4 ## TYPE\
+{\
+	TYPE x, y, z, w;\
+}
+
+	// Vector 2
+	DECLARE_VECTOR_2_TYPE(U8);
+	DECLARE_VECTOR_2_TYPE(U16);
+	DECLARE_VECTOR_2_TYPE(U32);
+	DECLARE_VECTOR_2_TYPE(U64);
+
+	DECLARE_VECTOR_2_TYPE(S8);
+	DECLARE_VECTOR_2_TYPE(S16);
+	DECLARE_VECTOR_2_TYPE(S32);
+	DECLARE_VECTOR_2_TYPE(S64);
+	DECLARE_VECTOR_2_TYPE(Sz);
+
+	DECLARE_VECTOR_2_TYPE(F32);
+	DECLARE_VECTOR_2_TYPE(F64);
+
+	// Vector 3
+	DECLARE_VECTOR_3_TYPE(U8);
+	DECLARE_VECTOR_3_TYPE(U16);
+	DECLARE_VECTOR_3_TYPE(U32);
+	DECLARE_VECTOR_3_TYPE(U64);
+
+	DECLARE_VECTOR_3_TYPE(S8);
+	DECLARE_VECTOR_3_TYPE(S16);
+	DECLARE_VECTOR_3_TYPE(S32);
+	DECLARE_VECTOR_3_TYPE(S64);
+	DECLARE_VECTOR_3_TYPE(Sz);
+
+	DECLARE_VECTOR_3_TYPE(F32);
+	DECLARE_VECTOR_3_TYPE(F64);
+
+	// Vector 4
+	DECLARE_VECTOR_4_TYPE(U8);
+	DECLARE_VECTOR_4_TYPE(U16);
+	DECLARE_VECTOR_4_TYPE(U32);
+	DECLARE_VECTOR_4_TYPE(U64);
+
+	DECLARE_VECTOR_4_TYPE(S8);
+	DECLARE_VECTOR_4_TYPE(S16);
+	DECLARE_VECTOR_4_TYPE(S32);
+	DECLARE_VECTOR_4_TYPE(S64);
+	DECLARE_VECTOR_4_TYPE(Sz);
+
+	DECLARE_VECTOR_4_TYPE(F32);
+	DECLARE_VECTOR_4_TYPE(F64);
+
+}
